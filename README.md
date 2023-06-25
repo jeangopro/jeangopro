@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Jean</h1>
 <h3 align="center">Soy un Desarrollador Web apasionado.</h3>
 
-- 👨‍💻 Mis proyectos estan disponibles en [https://jeancuadros.herokuapp.com/](https://jeancuadros.herokuapp.com/)
+- 👨‍💻 Mis proyectos estan disponibles en [https://jeangopro.com/](https://jeangopro.com/)
 
 - 💬 Preguntame acerca de **html, css, javascript, vue, scss, php**
 
