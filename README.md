@@ -3,7 +3,7 @@
 
 - 👨‍💻 Mis proyectos estan disponibles en [https://jeangopro.com/](https://jeangopro.com/)
 
-- 💬 Preguntame acerca de **html, css, javascript, vue, scss, php**
+- 💬 Preguntame acerca de **html, css, javascript, vue, scss, php, laravel y mas**
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
